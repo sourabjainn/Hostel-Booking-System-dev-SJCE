@@ -1,0 +1,88 @@
+[
+   {
+      "name":"L BLOCK",
+      "imageurls":[
+         "https://sjce.ac.in/wp-content/uploads/2018/01/IMG_20180109_153614-1000x600.jpg",
+         "https://images.oyoroomscdn.com/uploads/hotel_image/56303/medium/06883e94ec59702e.jpg",
+         "https://images.oyoroomscdn.com/uploads/hotel_image/56303/medium/91dead74a5dffa61.jpg"
+      ],
+      "roomno":84,
+      "filled":0,
+      "limit":1,
+      "floor":"second",
+      "type":"Washroom",
+      "maxcount":4,
+      "availability":[
+         
+      ],
+      "description":"Description about L block."
+   },
+   {
+      "name":"M BLOCK",
+      "imageurls":[
+         "https://sjce.ac.in/wp-content/uploads/2018/01/13717316_986628254788562_3319145106671402444_o-1000x600.jpg",
+         "https://images.oyoroomscdn.com/uploads/hotel_image/105649/large/caef038a4b97b589.jpg",
+         "https://images.oyoroomscdn.com/uploads/hotel_image/105649/large/46bffe91d06dcb96.jpg"
+      ],
+      "roomno":56,
+      "filled":0,
+      "floor":"first",
+      "type":"Washroom",
+      "maxcount":3,
+      "availability":[
+         
+      ],
+      "description":"Description about M block."
+   },
+   {
+      "name":"H-BLOCK",
+      "imageurls":[
+         "https://sjce.ac.in/wp-content/uploads/2018/01/13690938_986628271455227_3305546057738433174_o-1000x600.jpg",
+         "https://images.oyoroomscdn.com/uploads/hotel_image/107625/large/d452b4897a767f6b.jpg",
+         "https://images.oyoroomscdn.com/uploads/hotel_image/107625/large/8f690e54761344e0.jpg"
+      ],
+      "roomno":23,
+      "filled":0,
+      "floor":"ground",
+      "type":"Non-washroom",
+      "maxcount":3,
+      "availability":[
+         
+      ],
+      "description":"Description about H block."
+   },
+   {
+      "name":"GH BLOCK",
+      "imageurls":[
+         "https://sjce.ac.in/wp-content/uploads/2018/01/IMG_20180109_153424-1000x600.jpg",
+         "https://images.oyoroomscdn.com/uploads/hotel_image/111796/large/d55361043c9b52af.jpg",
+         "https://images.oyoroomscdn.com/uploads/hotel_image/111796/large/2f7029d3c5429b5f.jpg"
+      ],
+      "roomno":8,
+      "filled":0,
+      "floor":"first",
+      "type":"Non-washroom",
+      "maxcount":2,
+      "availability":[
+         
+      ],
+      "description":"Description about GH block."
+   },
+   {
+      "name":"GH BLOCK -2 ",
+      "imageurls":[
+         "https://sjce.ac.in/wp-content/uploads/2018/01/IMG_20180109_153424-1000x600.jpg",
+         "https://images.oyoroomscdn.com/uploads/hotel_image/111796/large/d55361043c9b52af.jpg",
+         "https://images.oyoroomscdn.com/uploads/hotel_image/111796/large/2f7029d3c5429b5f.jpg"
+      ],
+      "roomno":9,
+      "filled":0,
+      "floor":"ground",
+      "type":"Non-washroom",
+      "maxcount":2,
+      "availability":[
+         
+      ],
+      "description":"Description about GH block -2."
+   }
+]
